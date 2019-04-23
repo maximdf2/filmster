@@ -23,7 +23,10 @@ Aplicación utilizada en la cursada 2019 de Ingenieria de Software. UTN-FRLP
 </h1>
 <h1>
 	Giuliano de la Vega,Federico
-</h1
+</h1>
 <h1>
 	Rodriguez Maximiliano
+</h1>
+<h1> 
+	Renaldi Jeronimo
 </h1>
