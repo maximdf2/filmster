@@ -59,7 +59,7 @@ function update(table, data) {
 }
 
 function onCheckClicked(table, e) {
-    if (e.target.nodeName === 'INPUT') {
+    if (e.target.nodeName === 'ONPUT') {
         const isSelected = e.target.checked
         const toggleRow = e.target.row
 
